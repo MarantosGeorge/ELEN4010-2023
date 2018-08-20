@@ -1,0 +1,2 @@
+added text v1
+git commit GIT_COMMITTER_DATE="Mon 20 Aug 2018 20:19:19 BST" git commit --date "Mon 20 Aug 2018 20:19:19 BST" "Tried again"
